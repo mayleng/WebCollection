@@ -1,0 +1,72 @@
+﻿iisexpress.exe Error: 0 : 2017-12-29 16:39:58 TRACE ERROR
+iisexpress.exe Warning: 0 : 2017-12-29 16:39:58 trace warn
+iisexpress.exe Information: 0 : 2017-12-29 16:39:58 trace info
+2017-12-29 16:39:58  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 54iisexpress.exe Error: 0 : 2017-12-29 16:39:58 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2017-12-29 16:39:58 记录日志 trace warn
+iisexpress.exe Information: 0 : 2017-12-29 16:39:58 记录日志 trace info
+2017-12-29 16:39:58 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:19 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:19 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:19 trace info
+2018-01-05 15:37:19  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:19 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:19 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:19 记录日志 trace info
+2018-01-05 15:37:19 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:26 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:26 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:26 trace info
+2018-01-05 15:37:26  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:26 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:26 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:26 记录日志 trace info
+2018-01-05 15:37:26 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:32 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:32 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:32 trace info
+2018-01-05 15:37:32  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:32 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:32 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:32 记录日志 trace info
+2018-01-05 15:37:32 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-01-05 15:37:50 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:50 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:50 trace info
+2018-01-05 15:37:50  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-01-05 15:37:50 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-01-05 15:37:50 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-01-05 15:37:50 记录日志 trace info
+2018-01-05 15:37:50 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-02-08 14:16:46 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:47 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:47 trace info
+2018-02-08 14:16:47  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-02-08 14:16:47 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:47 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:47 记录日志 trace info
+2018-02-08 14:16:47 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-02-08 14:16:50 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:50 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:50 trace info
+2018-02-08 14:16:50  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-02-08 14:16:50 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-02-08 14:16:50 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-02-08 14:16:50 记录日志 trace info
+2018-02-08 14:16:50 失败: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-05-18 17:40:29 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-05-18 17:40:29 trace warn
+iisexpress.exe Information: 0 : 2018-05-18 17:40:29 trace info
+2018-05-18 17:40:29  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 WebCollection.Default.Test() 位置 C:\Users\bonree\Desktop\webapi\netframework\WebCollection\WebCollection\Default.aspx.cs:行号 57iisexpress.exe Error: 0 : 2018-05-18 17:40:30 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-05-18 17:40:30 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-05-18 17:40:30 记录日志 trace info
+2018-05-18 17:40:30 失败: trace ********Fail 

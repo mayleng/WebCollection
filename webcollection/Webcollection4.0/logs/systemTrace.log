@@ -1,0 +1,81 @@
+﻿w3wp.exe Error: 0 : 2018-01-29 16:52:41 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-01-29 16:52:41 trace warn
+w3wp.exe Information: 0 : 2018-01-29 16:52:41 trace info
+2018-01-29 16:52:41  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 60w3wp.exe Error: 0 : 2018-01-29 16:52:41 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-01-29 16:52:41 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-01-29 16:52:41 记录日志 trace info
+2018-01-29 16:52:41 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-01-29 16:54:41 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-01-29 16:54:41 trace warn
+w3wp.exe Information: 0 : 2018-01-29 16:54:41 trace info
+2018-01-29 16:54:41  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 60w3wp.exe Error: 0 : 2018-01-29 16:54:41 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-01-29 16:54:41 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-01-29 16:54:41 记录日志 trace info
+2018-01-29 16:54:41 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-01 14:12:37 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-01 14:12:37 trace warn
+w3wp.exe Information: 0 : 2018-02-01 14:12:37 trace info
+2018-02-01 14:12:37  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 60w3wp.exe Error: 0 : 2018-02-01 14:12:37 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-01 14:12:37 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-01 14:12:37 记录日志 trace info
+2018-02-01 14:12:37 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-02 10:43:44 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 10:43:44 trace warn
+w3wp.exe Information: 0 : 2018-02-02 10:43:44 trace info
+2018-02-02 10:43:44  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 56w3wp.exe Error: 0 : 2018-02-02 10:43:44 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 10:43:44 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-02 10:43:44 记录日志 trace info
+2018-02-02 10:43:45 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-02 13:42:51 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 13:42:51 trace warn
+w3wp.exe Information: 0 : 2018-02-02 13:42:51 trace info
+2018-02-02 13:42:51  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 56w3wp.exe Error: 0 : 2018-02-02 13:42:51 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 13:42:51 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-02 13:42:51 记录日志 trace info
+2018-02-02 13:42:52 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-02 16:25:09 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 16:25:09 trace warn
+w3wp.exe Information: 0 : 2018-02-02 16:25:09 trace info
+2018-02-02 16:25:09  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 56w3wp.exe Error: 0 : 2018-02-02 16:25:09 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-02 16:25:09 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-02 16:25:09 记录日志 trace info
+2018-02-02 16:25:09 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-28 10:02:56 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-28 10:02:56 trace warn
+w3wp.exe Information: 0 : 2018-02-28 10:02:56 trace info
+2018-02-28 10:02:56  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 60w3wp.exe Error: 0 : 2018-02-28 10:02:56 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-28 10:02:56 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-28 10:02:56 记录日志 trace info
+2018-02-28 10:02:56 Fail: trace ********Fail 
+w3wp.exe Error: 0 : 2018-02-28 10:02:59 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-28 10:02:59 trace warn
+w3wp.exe Information: 0 : 2018-02-28 10:02:59 trace info
+2018-02-28 10:02:59  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: Attempted to divide by zero.
+   at Webcollection.Default.Test() in C:\Users\bonree\Desktop\Webcollection\Webcollection\Webcollection\Default.aspx.cs:line 60w3wp.exe Error: 0 : 2018-02-28 10:02:59 记录日志 TRACE ERROR
+w3wp.exe Warning: 0 : 2018-02-28 10:02:59 记录日志 trace warn
+w3wp.exe Information: 0 : 2018-02-28 10:02:59 记录日志 trace info
+2018-02-28 10:02:59 Fail: trace ********Fail 
+iisexpress.exe Error: 0 : 2018-09-06 10:44:13 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-09-06 10:44:13 trace warn
+iisexpress.exe Information: 0 : 2018-09-06 10:44:13 trace info
+2018-09-06 10:44:13  trace common
+添加一个异常*******   test *********   test1 ********   test2******   计算员工工资出现异常: System.DivideByZeroException: 尝试除以零。
+   在 Webcollection.Default.Test() 位置 C:\Users\bonree\Desktop\Webcollection\Default.aspx.cs:行号 56iisexpress.exe Error: 0 : 2018-09-06 10:44:13 记录日志 TRACE ERROR
+iisexpress.exe Warning: 0 : 2018-09-06 10:44:13 记录日志 trace warn
+iisexpress.exe Information: 0 : 2018-09-06 10:44:13 记录日志 trace info
+2018-09-06 10:44:13 失败: trace ********Fail 
